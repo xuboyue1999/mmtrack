@@ -163,6 +163,10 @@ Notes:
 
 The checkpoints can be downloaded in
 
+https://pan.baidu.com/s/1N4nJGyCOxogh2zNAsfEhrA 
+
+code: v6cc 
+
 The raw results can be downloaded in 
 
 https://pan.baidu.com/s/1r7Uj_2IyJAInv6Mcmr844A 
