@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.idea/
+.ipynb_checkpoints/
+
+output/
+tensorboard/
+RGBE_workspace/
+debug/
+
+*.log
+*.tmp
