@@ -1,4 +1,4 @@
-# FAMTrack: Learning Frequency and Memory-aware Prompts for Multi-modal Object Tracking
+# FAMTrack: Learning Frequency and Memory-aware Prompts for Multi-modal Object Tracking (Pattern Recognition 2026)
 
 
 Official repository for **"Learning Frequency and Memory-aware Prompts for Multi-modal Object Tracking"**.
@@ -160,8 +160,15 @@ Notes:
 - Checkpoints are saved under `output/checkpoints/`
 
 ## Model Zoo and Raw Results
-The checkpoints can be downloaded in 
-The raw results can be downloaded in
+
+The checkpoints can be downloaded in
+
+The raw results can be downloaded in 
+
+https://pan.baidu.com/s/1r7Uj_2IyJAInv6Mcmr844A 
+
+code:4i22 
+
 ## Evaluation
 
 Run dataset evaluation:
@@ -223,3 +230,15 @@ experiments/odtrack/
 3. Place pretrained weights and trained checkpoints in the expected output directory.
 4. Choose a config from `experiments/odtrack/`.
 5. Run training, testing, or video demo.
+
+
+## You can cite our work:
+
+@article{xu2026learning,
+  title={Learning Frequency and Memory-Aware Prompts for Multi-Modal Object Tracking},
+  author={Xu, Boyue and Hou, Ruichao and Ren, Tongwei and Zhou, Dongming and Wu, Gangshan and Cao, Jinde},
+  journal={Pattern Recognition},
+  pages={113532},
+  year={2026},
+  publisher={Elsevier}
+}
